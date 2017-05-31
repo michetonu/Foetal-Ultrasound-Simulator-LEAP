@@ -1,5 +1,5 @@
 function [h,on] = drawPlane3d(plane, varargin)
-% MODIFIED FROM DRAWPLANE3D by DAVID LEGLAND:
+% MODIFIED BY M.TONUTTI, FROM "DRAWPLANE3D" by DAVID LEGLAND.
 %
 % DRAWPLANE3D Draw a plane clipped in the current window
 %
@@ -42,7 +42,6 @@ lim = get(gca, 'zlim');
 zmin = lim(1);
 zmax = lim(2);
 
-
 % line corresponding to cube edges
 lineX00 = [xmin ymin zmin 1 0 0];
 lineX01 = [xmin ymin zmax 1 0 0];
@@ -58,7 +57,6 @@ lineZ00 = [xmin ymin zmin 0 0 1];
 lineZ01 = [xmin ymax zmin 0 0 1];
 lineZ10 = [xmax ymin zmin 0 0 1];
 lineZ11 = [xmax ymax zmin 0 0 1];
-
 
 % compute intersection points with each plane
 piX00 = intersectLinePlane(lineX00, plane);
@@ -112,6 +110,7 @@ ind = ind(1:end-1);
 h = patch(pts(ind, 1), pts(ind, 2), pts(ind, 3), param{:});
 set(h,'Tag','plane');
 on = 1;
+
 % return handle to plane if needed
 % if nargout>0
 %     varargout{1}=h;
