@@ -3,6 +3,8 @@ A proof of concept for a foetal cardiac ultrasound simulator using LEAP motion (
 
 MATLAB and C++ code written by L.Nuwan, I.Pulgar, S.Shanel, M.Tonutti.
 
-Dependencies:
-LEAP Motion SDK (https://developer.leapmotion.com/)
-STL File Reader (https://it.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader)
+**Dependencies:**
+
+++ LEAP Motion SDK (https://developer.leapmotion.com/)
+
+++ STL File Reader (https://it.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader)
