@@ -3,6 +3,9 @@ A proof of concept for a foetal cardiac ultrasound simulator using LEAP motion (
 
 MATLAB and C++ code written by L.Nuwan, I.Pulgar, S.Shanel, M.Tonutti.
 
+![System](https://cloud.githubusercontent.com/assets/18726750/26682288/44c4e10a-46e0-11e7-9c6a-31a9ae2c4d10.png)
+
+
 **Dependencies:**
 
 ++ LEAP Motion SDK (https://developer.leapmotion.com/)
@@ -10,12 +13,6 @@ MATLAB and C++ code written by L.Nuwan, I.Pulgar, S.Shanel, M.Tonutti.
 ++ STL File Reader (https://it.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader)
 
 **Examples of Output**
-
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682096/8f4caaec-46df-11e7-9833-9d5e8883e13d.jpg)
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682097/8f66add4-46df-11e7-9e8f-ef9a62206f90.jpg)
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682099/8f72a42c-46df-11e7-91e6-d2f0221336b8.jpg)
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682101/8f74231a-46df-11e7-8090-a15ac6d932a2.jpg)
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682100/8f73a64c-46df-11e7-8d13-bc00f7342b56.jpg)
-![Alt-text](https://cloud.githubusercontent.com/assets/18726750/26682102/8f742d42-46df-11e7-9aff-3c035fadbf79.jpg)
-
+![Output1](https://cloud.githubusercontent.com/assets/18726750/26682289/44c75b2e-46e0-11e7-93ea-e568dc05578b.png)
+![Output2](https://cloud.githubusercontent.com/assets/18726750/26682290/44ce4970-46e0-11e7-851f-b005a862edc9.png)
 
