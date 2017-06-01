@@ -5,6 +5,7 @@ MATLAB and C++ code written by L.Nuwan, I.Pulgar, S.Shanel, M.Tonutti.
 
 ![System](https://cloud.githubusercontent.com/assets/18726750/26682288/44c4e10a-46e0-11e7-9c6a-31a9ae2c4d10.png)
 
+![System2](https://cloud.githubusercontent.com/assets/18726750/26682373/88320094-46e0-11e7-92dd-764a96e738f3.png)
 
 **Dependencies:**
 
@@ -13,6 +14,8 @@ MATLAB and C++ code written by L.Nuwan, I.Pulgar, S.Shanel, M.Tonutti.
 ++ STL File Reader (https://it.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader)
 
 **Examples of Output**
+
 ![Output1](https://cloud.githubusercontent.com/assets/18726750/26682289/44c75b2e-46e0-11e7-93ea-e568dc05578b.png)
+
 ![Output2](https://cloud.githubusercontent.com/assets/18726750/26682290/44ce4970-46e0-11e7-851f-b005a862edc9.png)
 
